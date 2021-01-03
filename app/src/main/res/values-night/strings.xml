@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bienvenido_ingresa_tu_nombre">Bienvenido , ingresa tu nombre</string>
+    <string name="name">Name</string>
+    <string name="que_logo_corresponde_a_la_imagen">¿ Que logo Corresponde a la Imagen ?</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="adivina">adivina</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FragmentoDinamicoClase11</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bienvenido_ingresa_tu_nombre">Bienvenido , ingresa tu nombre</string>
+    <string name="name">Name</string>
+    <string name="saludo">Hola %1$s </string>
+    <string name="que_logo_corresponde_a_la_imagen">¿ Que logo Corresponde a la Imagen ?</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="telegram">Telegram</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="instagram">Instagram</string>
+    <string name="facebook">Facebook</string>
+    <string name="todo">TODO</string>
+    <string name="adivina">adivina</string>
+    <string name="ganaste">ganaste %1$s </string>
+    <string name="perdiste">perdiste %1$s </string>
+</resources>
